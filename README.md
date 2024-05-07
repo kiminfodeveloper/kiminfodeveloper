@@ -53,6 +53,10 @@
 
 <br/>
 
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiminfodeveloper&show_icons=true)
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Kevyn_Melo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevyn-melo-6b99b4176/)](https://www.linkedin.com/in/kevyn-melo-6b99b4176/)
